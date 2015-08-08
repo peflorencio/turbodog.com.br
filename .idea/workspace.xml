@@ -2,180 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8d77c0b6-68a0-4df6-b55e-1db78d1a33f7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/css/styles50fa.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/jquery.form.mind03d.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/contact-form-7/includes/js/scripts50fa.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-twitter-feed-widget/easy-twitter-feed-widget4189.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/easy-twitter-feed-widget/lib/js/widget-easy-twitter-feed-widget5152.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/facebook-like-box-responsive/facebook-like-responsive4189.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v157a1.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1d41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/flickr.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/address-book.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/anchor.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/application-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/asterisk.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/balloon.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/battery-full.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/binocular.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/bookmark.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/camcorder.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/camera.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/chart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/clock.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/control.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/fire.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/heart.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/mail.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/icons/video.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/toggle_close.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/images/toggle_open.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/js/js_composer_front62d0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/bower/imagesloaded/imagesloaded.pkgd.min4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min62d0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/css/prettyPhoto62d0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/contentPattern.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_rounded/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/dark_square/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/default_thumb.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_next.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_prev.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/default/sprite_y.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternBottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternLeft.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternRight.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/contentPatternTop.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/default_thumbnail.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/facebook/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_rounded/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnNext.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/btnPrevious.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/images/prettyPhoto/light_square/sprite.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto62d0.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/vc/alert.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/vc/blur.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/vc/exclamation.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/vc/info.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/plugins/js_composer/assets/vc/tick.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/Pe-icon-7-stroke5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/animsition5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fontello5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/Pe-icon-7-strokebb1d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/Pe-icon-7-strokebb1d.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/Pe-icon-7-strokebb1d.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/Pe-icon-7-strokebb1d.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/Pe-icon-7-stroked41d.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/fontello.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/fontello.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/fontello.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/fonts/fontello.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/grabbing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/js_composer5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/media5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/owl.carousel5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/owl.transitions5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/css/prettyPhoto5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/__bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/_bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/_t2_bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/_t_bg-header - Copy.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/bg-signature.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/blockquote-icon-type2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/blockquote-icon-type3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/cross.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/favicon.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/flickr.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/footer-shadow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/header-shadow-above.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/header-shadow-bottom.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/loader.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/logo-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/pattern.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/qoute.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/t3_bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/toggle_close.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/images/toggle_open.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/classie4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/custom4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/jquery.animsition.min4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/jquery.countTo4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/jquery.hoverdir4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/jquery.isotope.min4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/modalEffects4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/modernizr.custom4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/owl.carousel4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/superfish4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/js/waypoints.min4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/themes/burgy/style5152.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/hotdog.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/logo-header-retina.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/05/logo-header.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burger1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burger4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burger5.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-meatballs.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-salad.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-salad2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store-190x170.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store2-190x170.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store3-190x170.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store4-190x170.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/burgy-wordpress-store4.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/pizza1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/pizza2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/sandwich-toast.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/sandwich-with-eggs-and-ham.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/sandwich-with-veg-bacon.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/sidebar-menu.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/team1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/team2.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/2015/06/team3.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/js_composer/js_composer_front_custom62d0.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-content/uploads/turbo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/comment-reply.min4189.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.min1576.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery4a80.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/accordion.mine899.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/core.mine899.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/widget.mine899.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/wlwmanifest.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/custom4189.js" afterPath="$PROJECT_DIR$/js/custom4189.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -201,15 +28,36 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.34736842">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state vertical-scroll-proportion="1.6442106">
+              <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
               <folding>
-                <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1439076431835" expanded="true" signature="473:729" placeholder="..." />
-                <marker date="1439076431835" expanded="true" signature="511:557" placeholder="{...}" />
-                <marker date="1439076431835" expanded="true" signature="596:642" placeholder="{...}" />
-                <marker date="1439076431835" expanded="true" signature="679:717" placeholder="{...}" />
+                <marker date="1439077433136" expanded="true" signature="473:729" placeholder="..." />
+                <marker date="1439077433136" expanded="true" signature="511:557" placeholder="{...}" />
+                <marker date="1439077433136" expanded="true" signature="596:642" placeholder="{...}" />
+                <marker date="1439077433136" expanded="true" signature="679:717" placeholder="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom4189.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/custom4189.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.290322">
+              <caret line="237" column="16" selection-start-line="237" selection-start-column="6" selection-end-line="237" selection-end-column="16" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style5152.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style5152.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -223,6 +71,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/wp-content/themes/burgy/style5152.css" />
+        <option value="$PROJECT_DIR$/css/style5152.css" />
+        <option value="$PROJECT_DIR$/js/custom4189.js" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -236,9 +86,9 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="57" />
-    <option name="y" value="21" />
+    <option name="y" value="-4" />
     <option name="width" value="1863" />
-    <option name="height" value="1059" />
+    <option name="height" value="1084" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -272,6 +122,44 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turbodog.com.br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turbodog.com.br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turbodog.com.br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turbodog.com.br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turbodog.com.br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="turbodog.com.br" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -281,7 +169,7 @@
     <property name="settings.editor.selected.configurable" value="project.scopes" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../turbodog.com.br" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunManager">
@@ -338,7 +226,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="57" y="21" width="1863" height="1059" extended-state="6" />
+    <frame x="57" y="-4" width="1863" height="1084" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -346,8 +234,6 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959743" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -355,7 +241,9 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
@@ -371,13 +259,12 @@
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="369" column="72" selection-start-line="369" selection-start-column="72" selection-end-line="369" selection-end-column="72" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1439076431835" expanded="true" signature="473:729" placeholder="..." />
-            <marker date="1439076431835" expanded="true" signature="511:557" placeholder="{...}" />
-            <marker date="1439076431835" expanded="true" signature="596:642" placeholder="{...}" />
-            <marker date="1439076431835" expanded="true" signature="679:717" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="473:729" placeholder="..." />
+            <marker date="1439077433136" expanded="true" signature="511:557" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="596:642" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="679:717" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -387,25 +274,54 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="369" column="72" selection-start-line="369" selection-start-column="72" selection-end-line="369" selection-end-column="72" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1439076431835" expanded="true" signature="473:729" placeholder="..." />
-            <marker date="1439076431835" expanded="true" signature="511:557" placeholder="{...}" />
-            <marker date="1439076431835" expanded="true" signature="596:642" placeholder="{...}" />
-            <marker date="1439076431835" expanded="true" signature="679:717" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="473:729" placeholder="..." />
+            <marker date="1439077433136" expanded="true" signature="511:557" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="596:642" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="679:717" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34736842">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="369" column="72" selection-start-line="369" selection-start-column="72" selection-end-line="369" selection-end-column="72" />
           <folding>
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1439076431835" expanded="true" signature="473:729" placeholder="..." />
-            <marker date="1439076431835" expanded="true" signature="511:557" placeholder="{...}" />
-            <marker date="1439076431835" expanded="true" signature="596:642" placeholder="{...}" />
-            <marker date="1439076431835" expanded="true" signature="679:717" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="473:729" placeholder="..." />
+            <marker date="1439077433136" expanded="true" signature="511:557" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="596:642" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="679:717" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style5152.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom4189.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.290322">
+          <caret line="237" column="16" selection-start-line="237" selection-start-column="6" selection-end-line="237" selection-end-column="16" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6442106">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+          <folding>
+            <marker date="1439077433136" expanded="true" signature="473:729" placeholder="..." />
+            <marker date="1439077433136" expanded="true" signature="511:557" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="596:642" placeholder="{...}" />
+            <marker date="1439077433136" expanded="true" signature="679:717" placeholder="{...}" />
           </folding>
         </state>
       </provider>
